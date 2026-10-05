@@ -1,0 +1,7 @@
+# Arquivos criados durante a compilação
+bin/
+obj/
+
+# Arquivos do editor
+.vs/
+*.user
